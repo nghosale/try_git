@@ -1,0 +1,6 @@
+Config File: /home/codespace/.config/solana/cli/config.yml
+RPC URL: https://api.devnet.solana.com 
+WebSocket URL: wss://api.devnet.solana.com/ (computed)
+Keypair Path: /home/codespace/devnet-wallet.json 
+Commitment: confirmed 
+2D77R7Aydxtm3BRDyzt6XLEn59zrjYs8odKU9PXtp9AX
