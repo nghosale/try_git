@@ -1,0 +1,4 @@
+NANDA / KNG
+Token address: 9t63T4bcuxrSaVCckF1abJSpNoZhDazpC3EiqhhkkNzv
+Metadata URI: https://raw.githubusercontent.com/nghosale/try_git/master/metadata/nanda-kng.json
+Explorer: https://explorer.solana.com/address/9t63T4bcuxrSaVCckF1abJSpNoZhDazpC3EiqhhkkNzv
