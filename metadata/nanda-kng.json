@@ -2,7 +2,7 @@
   "name": "NANDA",
   "symbol": "KNG",
   "description": "Plant Trees",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/nghosale/try_git/master/metadata/nanda-kng-logo.svg",
   "external_url": "",
   "attributes": []
 }
